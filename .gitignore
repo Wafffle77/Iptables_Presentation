@@ -1,0 +1,5 @@
+**.html
+!*.m4.html
+src/**.md
+!*.m4.md
+.vscode
